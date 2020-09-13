@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: red;
+    margin: 0;
+}
+.searchBar{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    .logo{
+        img{
+            width: 100px;
+        }
+    }
+}
+
